@@ -33,14 +33,11 @@
 - Large Language Models
 - Agentic AI
 - LangChain
-- FastAPI
-- MLOps
 
 🌱 Currently learning
 
 - Deep Learning
 - Cloud Deployment
-- RAG Applications
 
 🎯 Goal
 
@@ -74,7 +71,7 @@ Become an AI Engineer capable of building scalable intelligent systems.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,mongodb,mysql"/>
 
 </p>
 
@@ -102,7 +99,7 @@ Become an AI Engineer capable of building scalable intelligent systems.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,streamlit"/>
+<img src="https://skillicons.dev/icons?i=django,streamlit"/>
 
 </p>
 
@@ -112,7 +109,8 @@ Become an AI Engineer capable of building scalable intelligent systems.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,plsql"/>
+
 
 </p>
 
@@ -122,7 +120,8 @@ Become an AI Engineer capable of building scalable intelligent systems.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecolab,kaggle,jupyternotebook"/>
+
 
 </p>
 
